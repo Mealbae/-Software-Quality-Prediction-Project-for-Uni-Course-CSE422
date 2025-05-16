@@ -11,7 +11,7 @@ Decision Tree
 
 Logistic Regression
 
-Neural Network (MLP & Keras)
+Neural Network 
 
 🛠️ Tools & Libraries
 
